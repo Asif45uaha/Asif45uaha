@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a web and App Developer or AI/ML Enthusiaist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications as well as Developing my Skills for AI/ML.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aasif-ali-6909b8200)
